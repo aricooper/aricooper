@@ -25,7 +25,7 @@ defense sharper.
 Custom Lua detection script for the "Bad Neighbor" IPv6 vulnerability. 
 Successfully flags test exploits in a lab environment.  
 `Lua` `IDS` `CVE`
-(https://github.com/aricooper/suricata-script/tree/main/cve-detection)
+https://github.com/aricooper/suricata-script/tree/main/cve-detection
 
 ### Malware RE automation (angr)
 Python + angr pipeline for automated CTF challenge solving. 
